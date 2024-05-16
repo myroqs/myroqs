@@ -6,7 +6,7 @@ I'm a finance professional with over a decade of experience specializing in supp
 
 🔍 Most of the projects you'll find here are portfolios submitted during my data science coursework. They reflect my journey in this course and how my data analysis, visualization, and predictive modeling is evolving.
 
-🎸 Outside of crunching numbers and coding, you can find me strumming away on my guitar, unwinding and finding creative inspiration.
+🎸 Outside of crunching numbers and coding, you can find me reading self help books or strumming away on my guitar, unwinding and finding creative inspiration.
 
 
 
